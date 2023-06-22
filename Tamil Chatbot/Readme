@@ -1,1 +1,7 @@
+This chatbot is trained on Tamil language and its trained to answer questions about transportation.
+The model predicts the output with 99.6% accuracy.
+Further more data can be added in the JSON file to train and predict the output.
 
+For example, You can ask :
+1. போக்குவரத்து என்றால் என்ன ?
+2. சாலை வழி என்றால் என்ன ?
